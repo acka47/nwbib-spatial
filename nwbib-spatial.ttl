@@ -1,5 +1,5 @@
 @prefix dct:   <http://purl.org/dc/terms/> .
-@prefix nwbib-spatial: <https://nwbib.de/spatial/> .
+@prefix nwbib-spatial: <https://nwbib.de/spatial#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann:  <http://purl.org/vocab/vann/> .
 @prefix wd:    <http://www.wikidata.org/entity/> .
