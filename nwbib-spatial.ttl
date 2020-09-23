@@ -31209,7 +31209,7 @@ spatial:Q1980043
         <https://nwbib.de/spatial#N05>,
         <https://nwbib.de/spatial#N07> .
 
-<https://nwbib.de/spatial#N1-2> skos:narrower <https://nwbib.de/spatial#N10>,
+<https://nwbib.de/spatial#N1> skos:narrower <https://nwbib.de/spatial#N10>,
         <https://nwbib.de/spatial#N12>,
         <https://nwbib.de/spatial#N13>,
         <https://nwbib.de/spatial#N14>,
@@ -31226,7 +31226,7 @@ spatial:Q1980043
         <https://nwbib.de/spatial#N34>,
         <https://nwbib.de/spatial#N36> .
 
-<https://nwbib.de/spatial#N4-7> skos:narrower <https://nwbib.de/spatial#N42>,
+<https://nwbib.de/spatial#N4> skos:narrower <https://nwbib.de/spatial#N42>,
         <https://nwbib.de/spatial#N43>,
         <https://nwbib.de/spatial#N44>,
         <https://nwbib.de/spatial#N45>,
