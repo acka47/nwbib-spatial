@@ -25376,6 +25376,8 @@ nwbib-spatial:Q365  a   skos:Concept ;
         skos:inScheme   <https://nwbib.de/spatial> ;
         skos:notation   "05315" ;
         skos:prefLabel  "Köln"@de ;
+        skos:altLabel   "Kölle"@de ;
+        skos:related    nwbib-spatial:Q1718 ;
         foaf:focus      wd:Q365 .
 
 nwbib-spatial:Q1624335
