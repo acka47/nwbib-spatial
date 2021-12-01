@@ -17,65 +17,65 @@ brunner: a skos:ConceptScheme ;
 brunner:id01 a skos:Concept ;
   skos:prefLabel "Ablegen"@de ;
   skos:scopeNote "Keine Abzüge"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id02 a skos:Concept ;
   skos:prefLabel "Anschreiben"@de ;
   skos:scopeNote "Keine Abzüge"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id03 a skos:Concept ;
   skos:prefLabel "Arbeit"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id05 a skos:Concept ;
   skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id06 a skos:Concept ;
   skos:prefLabel "Ding"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id07 a skos:Concept ;
   skos:prefLabel "Haus und Sieldung"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id08 a skos:Concept ;
   skos:prefLabel "Land und Volk"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id09 a skos:Concept ;
   skos:prefLabel "Milieu"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id10 a skos:Concept ;
   skos:prefLabel "Militär"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id11 a skos:Concept ;
   skos:prefLabel "Persona"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id12 a skos:Concept ;
   skos:prefLabel "Reise und Verkehr"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id13 a skos:Concept ;
   skos:prefLabel "Sacra"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id14 a skos:Concept ;
   skos:prefLabel "Tier"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id15 a skos:Concept ;
   skos:prefLabel "Tür und Tor"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
 
 brunner:id16 a skos:Concept ;
   skos:prefLabel "Wald"@de ;
-  skos: topConceptOf brunner: .
+   skos:topConceptOf brunner: .
