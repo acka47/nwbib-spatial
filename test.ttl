@@ -1,0 +1,81 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix brunner: <https://example.org/brunner> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+brunner: a skos:ConceptScheme ;
+  dct:title "Ernst Brunner Thesaurus"@de ;
+  dct:creator "Julien A. Raemy", "Fabienne Lüthi" ;
+  dct:created "2021-11-30"^^xsd:date ;
+  dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+  skos:hasTopConcept
+    brunner:id01, brunner:id02, brunner:id03, brunner:id04, brunner:id05,
+    brunner:id06, brunner:id07, brunner:id08, brunner:id09, brunner:id10,
+    brunner:id11, brunner:id12, brunner:id13, brunner:id14, brunner:id15, brunner:id16 .
+
+brunner:id01 a skos:Concept ;
+  skos:prefLabel "Ablegen"@de ;
+  skos:scopeNote "Keine Abzüge"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id02 a skos:Concept ;
+  skos:prefLabel "Anschreiben"@de ;
+  skos:scopeNote "Keine Abzüge"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id03 a skos:Concept ;
+  skos:prefLabel "Arbeit"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id04 a skos:Concept ;
+  skos:prefLabel "Brauch"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id05 a skos:Concept ;
+  skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id06 a skos:Concept ;
+  skos:prefLabel "Ding"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id07 a skos:Concept ;
+  skos:prefLabel "Haus und Sieldung"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id08 a skos:Concept ;
+  skos:prefLabel "Land und Volk"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id09 a skos:Concept ;
+  skos:prefLabel "Milieu"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id10 a skos:Concept ;
+  skos:prefLabel "Militär"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id11 a skos:Concept ;
+  skos:prefLabel "Persona"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id12 a skos:Concept ;
+  skos:prefLabel "Reise und Verkehr"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id13 a skos:Concept ;
+  skos:prefLabel "Sacra"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id14 a skos:Concept ;
+  skos:prefLabel "Tier"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id15 a skos:Concept ;
+  skos:prefLabel "Tür und Tor"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id16 a skos:Concept ;
+  skos:prefLabel "Wald"@de ;
+  skos:topConceptof brunner: .
